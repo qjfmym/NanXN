@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/common.css=UTF-8
+encoding//WebContent/register.jsp=UTF-8
+encoding//src/com/itheima/daoImpl/CategoryDaoImpl.java=UTF-8
+encoding//src/com/itheima/domain/Category.java=UTF-8
+encoding//src/com/itheima/serviceImpl/CategoryServiceImpl.java=UTF-8
+encoding//src/com/itheima/utils/PhoneMessage/GetPhoneMessage.java=UTF-8
+encoding//src/com/itheima/utils/PhoneMessage/QueryUtil.java=UTF-8
